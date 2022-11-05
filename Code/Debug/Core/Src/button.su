@@ -1,0 +1,6 @@
+../Core/Src/button.c:17:6:initButton	16	static
+../Core/Src/button.c:35:6:readButton	16	static
+../Core/Src/button.c:87:9:isButtonSinglePressed	16	static
+../Core/Src/button.c:94:9:isButtonLongPressed	16	static
+../Core/Src/button.c:101:9:isButtonDoublePressed	16	static
+../Core/Src/button.c:108:15:getButtonState	16	static
